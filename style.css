@@ -20,6 +20,13 @@ body{
     font-family: var(--roboto);
 }
 
+.container img {
+    max-width:50px;
+    max-height:50px;
+    width: auto;
+    height: auto;
+}
+
 .titulo-principal{
     font-family: var(--roboto-mono);
     font-size: 32px;
