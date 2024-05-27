@@ -21,6 +21,8 @@ body{
 }
 
 img{
+    position: absolute;
+    top: 30px;
     max-width: 70px;
     max-height: 70px;
     display: block;
