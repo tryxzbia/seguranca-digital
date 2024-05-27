@@ -20,11 +20,12 @@ body{
     font-family: var(--roboto);
 }
 
-.container img {
-    max-width:50px;
-    max-height:50px;
+.foto img {
+    max-width:100px;
+    max-height:100px;
     width: auto;
     height: auto;
+    text-align: center;
 }
 
 .titulo-principal{
