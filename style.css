@@ -154,6 +154,10 @@ label{
     justify-content: space-between;
 }
 
+footer{
+    background-color:#dc90ffd0 ;
+}
+
 
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha{
