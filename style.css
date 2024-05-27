@@ -21,7 +21,7 @@ body{
 }
 
 img{
-    position: absolute;
+    position: relative;
     top: 30px;
     max-width: 70px;
     max-height: 70px;
