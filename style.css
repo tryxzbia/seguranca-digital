@@ -20,7 +20,12 @@ body{
     font-family: var(--roboto);
 }
 
-.foto img {
+img{
+    display: block;
+    margin: 0px auto;
+   }
+
+.foto {
     max-width:70px;
     max-height:70px;
     width: auto;
