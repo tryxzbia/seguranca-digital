@@ -89,7 +89,6 @@ body{
 
 .parametro-senha-botoes{
     display: flex;
-    justify-content: center;
 }
 
 .parametro-senha__botao{
@@ -100,7 +99,6 @@ body{
     font-size: 24px;
     cursor: pointer;
 }
-
 
 .parametro-senha__texto{
     padding: 24px;
